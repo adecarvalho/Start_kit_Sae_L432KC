@@ -30,9 +30,6 @@
 #define SEND_STOP_LUX 'L'
 #define SEND_STOP_POT 'P'
 //
-#define SEND_TEMPERATURE_SENSOR_BOARD 'e'
-#define SEND_ROTATION_SENSOR_BOARD 'f'
-#define SEND_LUX_SENSOR_BOARD 'g'
 /////////////
 class ComDuj10 {
 public:
